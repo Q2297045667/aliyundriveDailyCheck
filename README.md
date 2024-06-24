@@ -1,5 +1,9 @@
 ## 阿里云盘每日签到
 
+
+> 由于[aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)已经停更
+> 故基于原作者继续开发
+
 > 基于 Node.js 实现的阿里云盘每日签到
 
 ### TODO
@@ -7,7 +11,6 @@
 - [x] 阿里云盘签到
 - [x] 青龙面板支持
 - [ ] 本地运行
-- [ ] ~~github action 支持~~
 
 ### Use 使用
 
